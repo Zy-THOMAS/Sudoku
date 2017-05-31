@@ -1,0 +1,8 @@
+E:\ASP.NETProjects\Projects\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.exe.config
+E:\ASP.NETProjects\Projects\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.exe
+E:\ASP.NETProjects\Projects\SudokuPuzzle\SudokuPuzzle\bin\Debug\SudokuPuzzle.pdb
+E:\ASP.NETProjects\Projects\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.Properties.Resources.resources
+E:\ASP.NETProjects\Projects\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.SPUI.resources
+E:\ASP.NETProjects\Projects\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.csproj.GenerateResource.Cache
+E:\ASP.NETProjects\Projects\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.exe
+E:\ASP.NETProjects\Projects\SudokuPuzzle\SudokuPuzzle\obj\Debug\SudokuPuzzle.pdb
